@@ -1,3 +1,4 @@
+#extract zip file Wieldy-v-{x.y.z}
 #copying the ./source folder and rename this with the project name: wieldy-demo
 #let’s go inside the wieldy-demo folder
 $ cd wieldy-demo
