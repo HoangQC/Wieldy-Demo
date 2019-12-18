@@ -1,0 +1,11 @@
+#copying the ./source folder and rename this with the project name: wieldy-demo
+#let’s go inside the wieldy-demo folder
+$ cd wieldy-demo
+#run the command $ yarn  -> This will import all the dependencies Wieldy react demo uses.
+$ yarn 
+#run the command $ yarn start -> To start demo in browser
+$ yarn start 
+
+#If you want to build a compiled version of demo. 
+#You need to run the command $ yarn build and this will build a compiled version of demo for you.
+$ yarn build
