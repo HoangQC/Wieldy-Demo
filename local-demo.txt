@@ -1,0 +1,10 @@
+#extract zip file Wieldy-v-{x.y.z}
+./build -> Build folder contains the built distribution (production) version, which is for demo purpose only
+
+#check Node.js >=v8.5.0 (Recommended Version)
+$node --version
+
+#install serve and let it handle
+$npm install -g serve
+
+$serve -s build
